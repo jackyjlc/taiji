@@ -1,7 +1,16 @@
+#-*- coding: gbk#
 '''
 Created on 2018Äê2ÔÂ24ÈÕ
 
 @author: Administrator
 '''
 
-print('hello world!!!')
+#print('hello world!!!')
+
+
+def helloproc():
+    print('hello world!!!')
+    
+
+if __name__ == '__main__':
+    helloproc()
