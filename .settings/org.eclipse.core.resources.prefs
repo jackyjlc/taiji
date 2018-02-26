@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
-encoding//db/test.py=gbk
+encoding//db/DBOper.py=utf-8
+encoding//db/test.py=utf-8
+encoding//oper/XmlOper.py=utf-8
